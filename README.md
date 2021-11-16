@@ -1,6 +1,6 @@
 # Week12-Chuck-Norris-Jokes-File
 
-## Versioom 1.
+## Versioon 1.
 Kirjuta programm, mis kuvab juhuslkikku nalja chuck.txt failist.
 
 ## Versioon 2.
